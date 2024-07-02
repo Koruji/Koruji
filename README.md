@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Koruji
+- 👋 Hi, I’m Jade COTTIN. 
 - 👀 I’m interested in programming and computer science since childhood.
-- 🌱 I’m currently learning in BTS but I'm aiming for the fullstack and DevOps bachelor's degree next year.
+- 🌱 I have a 2 years technical degree in Digital systems, IT and networks option. I'm aiming for the fullstack and DevOps bachelor's degree next year.
 - 😄 Pronouns: Yeah, I'm a girl X)
 
 <!---
