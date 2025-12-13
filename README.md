@@ -25,7 +25,7 @@
   />
   <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=@Koruji&theme=tokyonight"
-
+    height="170"
   />
 </p>
 
