@@ -7,7 +7,6 @@
 🎓 **Degree :** I have a application development bachelor's degree. I'm aiming for a Master’s Degree in Full-Stack Development this year. <br>
 🧑‍🤝‍🧑 **Pronouns :** Yeah, I'm a girl X) <br>
 💖 **Fun fact :** I’m interested in programming and computer science since childhood. <br>
-![Profile Summary]()
 
 
 ## 📊 Some stats
