@@ -12,9 +12,11 @@
 ## 📊 Some stats
 
 <p align="center">
-  <img src="https://gitmystat.vercel.app/user?username=Koruji&theme=tokyonight&show_icons=true&hide_border=true" height="300"/>
-  <img src="https://gitmystat.vercel.app/top?username=Koruji&layout=bar&theme=tokyonight" height="300"/>
-  <img src="https://gitmystat.vercel.app/wakatime?theme=tokyonight&username=Koruji&layout=default" height="300"/>
+  <img src="https://gitmystat.vercel.app/user?username=Koruji&theme=catppuccin&show_icons=true&hide_border=true" height="300"/>
+  <img src="https://gitmystat.vercel.app/top?username=Koruji&layout=bar&theme=catppuccin" height="300"/>
+  <img src="https://gitmystat.vercel.app/wakatime?theme=catppuccin&username=Koruji&layout=default" height="300"/>
+  <br>
+  <img src="https://gitmystat.vercel.app/recent?theme=catppuccin&username=Koruji"/>
 </p>
 
 
