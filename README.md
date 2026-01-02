@@ -10,23 +10,11 @@
 
 
 ## 📊 Some stats
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Koruji&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koruji&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koruji&theme=tokyonight"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=@Koruji&theme=tokyonight"
-    height="170"
-  />
+  <img src="https://gitmystat.vercel.app/user?username=Koruji&theme=tokyonight&show_icons=true&hide_border=true" height="300"/>
+  <img src="https://gitmystat.vercel.app/top?username=Koruji&layout=bar&theme=tokyonight" height="300"/>
+  <img src="https://gitmystat.vercel.app/wakatime?theme=tokyonight&username=Koruji&layout=default" height="300"/>
 </p>
 
 
